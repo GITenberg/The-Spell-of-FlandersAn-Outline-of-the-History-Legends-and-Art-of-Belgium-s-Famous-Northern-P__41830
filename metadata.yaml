@@ -1,0 +1,27 @@
+_repo: The-Spell-of-FlandersAn-Outline-of-the-History-Legends-and-Art-of-Belgium-s-Famous-Northern-P__41830
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41830-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Vose, Edward Neville
+    gutenberg_agent_id: '41386'
+    url: http://www.gutenberg.org/2009/agents/41386
+description: ''
+gutenberg_issued: '2013-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41830'
+  lccn: '15008190'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Flanders -- Description and travel'
+- !lcc 'DH'
+title: 'The Spell of Flanders
+
+  An Outline of the History, Legends and Art of Belgium''s Famous Northern Provinces'
+url: http://www.gutenberg.org/ebooks/41830
